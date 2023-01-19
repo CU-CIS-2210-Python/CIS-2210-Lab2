@@ -1,0 +1,2 @@
+This is an ASCII encoded text file.
+42 is one of my favorite numbers.
